@@ -17,7 +17,7 @@ Shahrzad is a Senior Applied Research Scientist in AI for Good Research Lab at M
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/images/building_damage-model_architecture.drawio (1).png" alt="damage-assessment">
+<img class="paper-image" src="/images/building_damage-model_architecture.drawio (1).png" alt="damage-assessment">
 <div class="paper-text">
   <i>Shahrzad Gholami</i>, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan M. Lavista Ferres
  <br>
