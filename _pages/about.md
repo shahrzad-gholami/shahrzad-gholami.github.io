@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-  <link rel="stylesheet" href="/assets/css/custom.css">
-</head>
+
 
 ## About
 Shahrzad is a Senior Applied Research Scientist in AI for Good Research Lab at Microsoft. Her passion lies in harnessing the power of machine learning and artificial intelligence to tackle global societal and environmental challenges. With a strong focus on AI for Good, Shahrzad’s research spans a wide spectrum, including environmental sustainability, humanitarian endeavors, and healthcare innovations. Before her tenure at Microsoft, Shahrzad earned her Ph.D. in Computer Science from the University of Southern California. Her doctoral work yielded promising results, culminating in the creation of PAWS (Protection Assistant for Wildlife Security) – an end-to-end AI solution that employs artificial intelligence techniques to forecast poachers’ behavior. This facilitates strategic patrols for the safeguarding of endangered wildlife worldwide. This effort garnered coverage from prominent media outlets like Forbes and BBC. Shahrzad’s expertise extends to diverse domains, including healthcare where she has made impactful contributions by employing advanced deep learning computer vision techniques for medical imaging data analysis, leading to enhanced disease detection. Additionally, her endeavors encompass predictive models for critical scenarios like wildfire and food security, integrating survey, climate, and geospatial data to drive insightful forecasts. Notably, Shahrzad has also leveraged remotely sensed imagery data and deep learning computer vision techniques to develop disaster response models, aiding in rapid building damage assessment during crises. Shahrzad has an unwavering commitment to leveraging cutting-edge artificial intelligence techniques and technology for the betterment of society.
