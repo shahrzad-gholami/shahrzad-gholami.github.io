@@ -76,7 +76,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/blood_QOL_trajectory.png" alt="damage-assessment">
+<img class="paper-image" src="/images/wildfire-image.png" alt="damage-assessment">
 <div class="paper-text">
   <b>Where there’s Smoke, there’s Fire: Wildfire Risk Predictive Modeling via Historical Climate Data</b>
   <br>
