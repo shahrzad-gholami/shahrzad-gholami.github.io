@@ -75,4 +75,24 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 <br>
 
 
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/blood_QOL_trajectory.png" alt="damage-assessment">
+<div class="paper-text">
+  <b>Where there’s Smoke, there’s Fire: Wildfire Risk Predictive Modeling via Historical Climate Data</b>
+  <br>
+  <i>Shahrzad Gholami, Narendran Kodandapani, Jane Wang, Juan M. Lavista Ferres</i>
+  <br>
+  IAAI 2021 [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17797">paper</a>]
+  <br><br>
+  <div class="paper-short-summary">
+	  <details>
+		  <summary>TLDR: Predicting the spatio-temporal likelihood of wildfires via historical burned area, climate and geospatial data from three vast landscapes in India.</summary> 
+		  Wildfire is a growing global crisis with devastating consequences. Uncontrolled wildfires take away human lives, destroy millions of animals and trees, degrade the air quality, impact the biodiversity of the planet and cause substantial economic costs. It is incredibly challenging to predict the spatio-temporal likelihood of wildfires based on historical data, due to their stochastic nature. Crucially though, the accurate and reliable prediction of wildfires can help the stakeholders and decision-makers take timely, strategic and effective actions to prevent, detect and suppress the wildfires before they become unmanageable. Unfortunately, most previous studies developed predictive models that suffer from some shortcomings: (i) in the evaluation phase, they do not take the temporal aspects into account precisely and they assume the independent and identically distributed random variables; (ii) they do not evaluate their approaches comprehensively, thus it is not clear if their proposed predictions and selected models remain reliable across different locations and years for practical deployment; and (iii) for the supervised learning models, they use predictor features and fire observations from the same time step in the training phase, which makes the inference task infeasible for future fire prediction. In this paper, we revisit the wildfire predictive modeling, explore the inherent challenges from a practical perspective and evaluate our modeling approach comprehensively via historical burned area, climate and geospatial data from three vast landscapes in India.
+	  </details>
+  </div>
+</div>
+</div>
+<br>
+
+
 <hr style="margin: 1.5em">
