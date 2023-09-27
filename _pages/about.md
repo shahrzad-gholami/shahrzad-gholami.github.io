@@ -54,7 +54,7 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/food-security-ML-workflow.png" alt="damage-assessment">
+<img class="paper-image" src="/images/blood_QOL_trajectory.jpeg" alt="damage-assessment">
 <div class="paper-text">
   <b>Novel data analytics identify predictors of quality-of-life trajectories in patients with AML or high-risk Myeloid Neoplasms</b>
   <br>
