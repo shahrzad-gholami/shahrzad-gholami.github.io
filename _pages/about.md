@@ -34,11 +34,11 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 </div>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/building_damage-model_architecture.drawio (1).png" alt="damage-assessment">
+<img class="paper-image" src="/images/food-security-ML-workflow.png" alt="damage-assessment">
 <div class="paper-text">
   <b>Food Security Analysis and Forecasting: A Machine Learning Case Study in Southern Malawi</b>
   <br>
-  <i>Shahrzad Gholami , Erwin Knippenberg , James Campbell , Daniel Andriantsimba , Anusheel Kamle , Pavitraa Parthasarathy , Ria Sankar , Cameron Birge , Juan M. Lavista Ferres</i>
+  <i>Shahrzad Gholami, Erwin Knippenberg, James Campbell, Daniel Andriantsimba, Anusheel Kamle, Pavitraa Parthasarathy, Ria Sankar, Cameron Birge, Juan M. Lavista Ferres</i>
   <br>
   Data & Policy 2022 , Vol 4 [<a href="https://www.cambridge.org/core/journals/data-and-policy/article/food-security-analysis-and-forecasting-a-machine-learning-case-study-in-southern-malawi/CA4DFA39526F318373259921C10D1C3F">paper</a>][<a href="https://medium.com/data-policy/forecasting-food-insecurity-levels-in-near-real-time-using-a-machine-learning-framework-24b553f70aca">blog</a>]
   <br><br>
