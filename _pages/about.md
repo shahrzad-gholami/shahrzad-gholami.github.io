@@ -33,4 +33,21 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 </div>
 </div>
 
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/building_damage-model_architecture.drawio (1).png" alt="damage-assessment">
+<div class="paper-text">
+  <b>On the Deployment of Post-Disaster Building Damage Assessment Tools using Satellite Imagery: A Deep Learning Approach</b>
+  <br>
+  <i>Shahrzad Gholami, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan M. Lavista Ferres</i>
+  <br>
+  ICDM 2022 [<a href="https://ieeexplore.ieee.org/document/10031100/">paper</a>][<a href="https://github.com/microsoft/building-damage-assessment-cnn-siamese">code</a>]
+  <br><br>
+  <div class="paper-short-summary">
+	  <details>
+		  <summary>TLDR: Developed post-disaster damage assessment deep learning models based on remote sensing data.</summary> 
+		  Natural disasters frequency is growing globally. Every year 350 million people are affected and billions of dollars of damage is incurred. Providing timely and appropriate humanitarian interventions like shelters, medical aid, and food to affected communities are challenging problems. AI frameworks can help support existing efforts in solving these problems in various ways. In this study, we propose using high-resolution satellite imagery from before and after disasters to develop a convolutional neural network model for localizing buildings and scoring their damage level. We categorize damage to buildings into four levels, spanning from not damaged to destroyed, based on the xView2 dataset's scale. Due to the emergency nature of disaster response efforts, the value of automating damage assessment lies primarily in the inference speed, rather than accuracy. We show that our proposed solution works three times faster than the fastest xView2 challenge winning solution and over 50 times faster than the slowest first place solution, which indicates a significant improvement from an operational viewpoint. Our proposed model achieves a pixel-wise Fl score of 0.74 for the building localization and a pixel-wise harmonic Fl score of 0.6 for damage classification and uses a simpler architecture compared to other studies. Additionally, we develop a web-based visualizer that can display the before and after imagery along with the model's building damage predictions on a custom map. This study has been collaboratively conducted to empower a humanitarian organization as the stakeholder, that plans to deploy and assess the model along with the visualizer for their disaster response efforts in the field.
+	  </details>
+  </div>
+</div>
+</div>
 <hr style="margin: 1.5em">
