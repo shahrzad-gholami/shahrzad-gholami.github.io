@@ -69,7 +69,7 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
+.__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -93,7 +93,7 @@
   }
 }
 
-.author__content {
+.__content {
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
@@ -108,7 +108,7 @@
   }
 }
 
-.author__name {
+.__name {
   margin: 0;
 
   @include breakpoint($large) {
@@ -116,12 +116,12 @@
     margin-bottom: 10px;
   }
 }
-.sidebar .author__name {
+.sidebar .__name {
   font-family: $sans-serif;
   font-size: $type-size-4;
 }
 
-.author__bio {
+.__bio {
   margin: 0;
 
   @include breakpoint($large) {
@@ -234,4 +234,7 @@
       text-decoration: underline;
     }
   }
+  li a {
+  font-size: 8px; /* Adjust the font size as needed */
+}
 }
