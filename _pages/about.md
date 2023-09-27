@@ -17,7 +17,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 ## Publications and Preprints
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/mactel-short-paper" alt="damage-assessment">
+<img class="paper-image" src="/images/mactel-short-paper.png" alt="mactel-short">
 <div class="paper-text">
   <b>Interpretable Ensemble-based Deep Learning Approach for Automated Detection of Macular Telangiectasia Type 2 by Optical Coherence Tomography</b>
   <br>
@@ -57,7 +57,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/food-security-ML-workflow.png" alt="damage-assessment">
+<img class="paper-image" src="/images/food-security-ML-workflow.png" alt="food-security">
 <div class="paper-text">
   <b>Food Security Analysis and Forecasting: A Machine Learning Case Study in Southern Malawi</b>
   <br>
@@ -77,7 +77,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/blood_QOL_trajectory.png" alt="damage-assessment">
+<img class="paper-image" src="/images/blood_QOL_trajectory.png" alt="quality-of-life-trajectory">
 <div class="paper-text">
   <b>Novel data analytics identify predictors of quality-of-life trajectories in patients with AML or high-risk Myeloid Neoplasms</b>
   <br>
@@ -97,7 +97,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/wildfire-image.png" alt="damage-assessment">
+<img class="paper-image" src="/images/wildfire-image.png" alt="wildfire-prediction">
 <div class="paper-text">
   <b>Where there’s Smoke, there’s Fire: Wildfire Risk Predictive Modeling via Historical Climate Data</b>
   <br>
