@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shahrzad Gholami"
 title_separator          : "-"
 name                     : &name "Shahrzad Gholami"
-description              : &description "Sr. Applied Scientist at Microsoft"
+description              : &description "Sr. Research Scientist at Microsoft"
 url                      : https://shahrzad-gholami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shahrzad-gholami.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shahrzad Gholami"
   avatar           : "https://shahrzad-gholami.github.io/images/profile.png"
-  bio              : "Sr. Applied Scientist at Microsoft"
+  bio              : "Sr. Research Scientist at Microsoft"
   location         : "California"
   employer         :
   pubmed           : 
