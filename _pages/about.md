@@ -64,7 +64,7 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
   <br><br>
   <div class="paper-short-summary">
 	  <details>
-		  <summary>TLDR: Utilizing AI for quality-of-life trajectory prediction by employing non-supervised clustering and ordinal logistic regression on 503 Acute myeloid leukemia patient data enrolled on an observational clinical trial.</summary> 
+		  <summary>TLDR: Utilizing AI for quality-of-life trajectory prediction by employing non-supervised clustering and ordinal logistic regression on 503 Acute myeloid leukemia patients data enrolled on an observational clinical trial.</summary> 
 		  Acute myeloid leukemia (AML) remains fatal in most patients (pts) with a 5-year survival probability of approximately 30% (less than 10% in pts aged 65 or older). Beyond survival, quality of life (QOL) can be significantly impaired by both disease and treatment-related factors. There is an urgent need to both characterize and identify factors predictive of QOL trajectories. Leveraging prospective data from 503 pts enrolled on an observational clinical trial, we implemented a novel statistical approach using non-supervised longitudinal clustering and ordinal logistic regression. We successfully identified: i) distinct QOL trajectories, ii) baseline factors independently associated with QOL trajectories.
 	  </details>
   </div>
