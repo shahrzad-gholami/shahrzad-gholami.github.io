@@ -95,4 +95,23 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 <br>
 
 
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/mactel-short-paper.png" alt="damage-assessment">
+<div class="paper-text">
+  <b>Interpretable Ensemble-based Deep Learning Approach for Automated Detection of Macular Telangiectasia Type 2 by Optical Coherence Tomography</b>
+  <br>
+  <i>Shahrzad Gholami, Lea Scheppke, Rahul Dodhia, Juan M. Lavista Ferres , Aaron Lee</i>
+  <br>
+  ICML 2023 [<a href="https://openreview.net/pdf?id=amUYiXO9u0">paper</a>]
+  <br><br>
+  <div class="paper-short-summary">
+	  <details>
+		  <summary>TLDR: Developing ensemble deep learning model to detect Macular Telangiectasia Type 2 in OCT scans with interpretability using ResNet models and AdaBoost on a large dataset.</summary> 
+		  We present an ensemble-based approach using deep learning models for the accurate and interpretable detection of Macular Telangiectasia Type 2 (MacTel) from a large dataset of Optical Coherence Tomography (OCT) scans. Leveraging data from the MacTel Project by the Lowy Medical Research Institute and the University of Washington, our dataset consists of 5200 OCT scans from 780 MacTel patients and 1820 non-MacTel patients. Employing ResNet18 and ResNet50 architectures as supervised learning models along with the AdaBoost algorithm, we predict the presence of MacTel in patients and reflect on interpretability based on the Grad-CAM technique to identify critical regions in OCT images influencing the models’ predictions. We propose building weak learners for the AdaBoost ensemble by not only varying the architecture but also varying amounts of labeled data available for training neural networks to improve the accuracy and interpretability. Our study contributes to interpretable machine learning in healthcare, showcasing the efficacy of ensemble techniques for accurate and interpretable detection of rare retinal diseases like MacTel.
+	  </details>
+  </div>
+</div>
+</div>
+<br>
+
 <hr style="margin: 1.5em">
