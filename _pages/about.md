@@ -33,6 +33,7 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 </div>
 </div>
 
+
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/food-security-ML-workflow.png" alt="damage-assessment">
 <div class="paper-text">
@@ -46,6 +47,25 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 	  <details>
 		  <summary>TLDR: Using machine learning and high-frequency data, accurate food insecurity forecasts support humanitarian efforts in vulnerable communities, enhancing assistance delivery.</summary> 
 		  Chronic food insecurity remains a challenge globally, exacerbated by climate change-driven shocks such as droughts and floods. Forecasting food insecurity levels and targeting vulnerable households is a priority for humanitarian programming to ensure timely delivery of assistance. In this study, we propose to harness a machine learning approach trained on high-frequency household survey data to infer the predictors of food insecurity and forecast household level outcomes in near real-time. Our empirical analyses leverage the Measurement Indicators for Resilience Analysis (MIRA) data collection protocol implemented by Catholic Relief Services (CRS) in southern Malawi, a series of sentinel sites collecting household data monthly. When focusing on predictors of community-level vulnerability, we show that a random forest model outperforms other algorithms and that location and self-reported welfare are the best predictors of food insecurity. We also show performance results across several neural networks and classical models for various data modeling scenarios to forecast food security. We pose that problem as binary classification via dichotomization of the food security score based on two different thresholds, which results in two different positive class to negative class ratios. Our best performing model has an F1 of 81% and an accuracy of 83% in predicting food security outcomes when the outcome is dichotomized based on threshold 16 and predictor features consist of historical food security score along with 20 variables selected by artificial intelligence explainability frameworks. These results showcase the value of combining high-frequency sentinel site data with machine learning algorithms to predict future food insecurity outcomes.
+	  </details>
+  </div>
+</div>
+</div>
+
+
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/food-security-ML-workflow.png" alt="damage-assessment">
+<div class="paper-text">
+  <b>Novel data analytics identify predictors of quality-of-life trajectories in patients with AML or high-risk Myeloid Neoplasms</b>
+  <br>
+  <i>Jordan Gauthier, Bianca Furtuna, ,Jacopo Mangiavacchi, Shahrzad Gholami, Juan M. Lavista Ferres, Rahul Dodhia, Amir T. Fathi,, Andrew M. Brunner, Aaron T. Gerds, Mikkael A. Sekeres, Bruno C. Medeiros, Eunice S. Wang, Paul J Shami, Kehinde Adekola, Selina M. Luger, Maria R. Baer, David A Rizzieri, Tanya Wildes, Jamie L. Koprivnikar, Julie Smith, Mitchell A. Garrison, Kiarash Kojouri, Frederick R. Appelbaum, Mary-Elizabeth M. Percival, Stephanie J. Lee, Mohamed L. Sorror</i>
+  <br>
+  Blood 2022 , Vol 4 [<a href="https://ashpublications.org/blood/article/140/Supplement%201/5254/491544/Novel-Data-Analytics-Identify-Predictors-of">paper</a>]
+  <br><br>
+  <div class="paper-short-summary">
+	  <details>
+		  <summary>TLDR: Utilizing AI for quality-of-life trajectory prediction by employing non-supervised clustering and ordinal logistic regression on 503 Acute myeloid leukemia patient data enrolled on an observational clinical trial.</summary> 
+		  Acute myeloid leukemia (AML) remains fatal in most patients (pts) with a 5-year survival probability of approximately 30% (less than 10% in pts aged 65 or older). Beyond survival, quality of life (QOL) can be significantly impaired by both disease and treatment-related factors. There is an urgent need to both characterize and identify factors predictive of QOL trajectories. Leveraging prospective data from 503 pts enrolled on an observational clinical trial, we implemented a novel statistical approach using non-supervised longitudinal clustering and ordinal logistic regression. We successfully identified: i) distinct QOL trajectories, ii) baseline factors independently associated with QOL trajectories.
 	  </details>
   </div>
 </div>
