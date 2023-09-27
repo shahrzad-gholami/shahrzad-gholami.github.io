@@ -118,7 +118,7 @@
 }
 .sidebar .__name {
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  // font-size: $type-size-4;
 }
 
 .__bio {
@@ -227,7 +227,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-4;
+    // font-size: $type-size-4;
     text-decoration: none;
 
     &:hover {
