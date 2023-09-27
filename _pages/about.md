@@ -17,7 +17,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 ## Publications and Preprints
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/mactel-short-paper.png" alt="damage-assessment">
+<img class="paper-image" src="/images/mactel-short-paper" alt="damage-assessment">
 <div class="paper-text">
   <b>Interpretable Ensemble-based Deep Learning Approach for Automated Detection of Macular Telangiectasia Type 2 by Optical Coherence Tomography</b>
   <br>
