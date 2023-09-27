@@ -12,7 +12,7 @@ redirect_from:
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 
-I am a Senior Research Scientist at the AI for Good Research Lab within Microsoft where I am dedicated to leveraging the transformative capabilities of artificial intelligence to address pressing global societal and environmental challenges. My research spans a diverse spectrum of applications, encompassing innovations in healthcare, environmental sustainability, and humanitarian initiatives. Before embarking on my journey at Microsoft, I earned my Ph.D. in Computer Science from the University of Southern California. My dedication to advancing the boundaries of AI for good has not gone unnoticed, as my work has garnered recognition from prominent media outlets such as Forbes and BBC. Through my research and contributions, I am committed to driving positive change and shaping a better future for our world through the power of AI.
+I am a Senior Research Scientist at the AI for Good Research Lab within Microsoft where I am dedicated to leveraging the transformative capabilities of artificial intelligence to address pressing global societal and environmental challenges. My research spans a diverse spectrum of applications, encompassing innovations in healthcare, environmental sustainability, and humanitarian initiatives. Before embarking on my journey at Microsoft, I earned my Ph.D. in Computer Science from the University of Southern California. Through my research and contributions, I am committed to driving positive change and shaping a better future for our world through the power of AI.
 
 ## Publications and Preprints
 <div class="paper-image-text-pair">
