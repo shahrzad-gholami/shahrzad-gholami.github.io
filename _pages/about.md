@@ -14,15 +14,15 @@ redirect_from:
 
 I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsoft. I am passionate about harnessing the power of machine learning and artificial intelligence to tackle global societal and environmental challenges. My research spans a wide spectrum of applications, including environmental sustainability, humanitarian endeavors, and healthcare innovations. Before my tenure at Microsoft, I completed my Ph.D. in Computer Science at the University of Southern California. My line of research yielded promising results, culminating in the creation of PAWS (Protection Assistant for Wildlife Security) – an end-to-end AI solution that employs artificial intelligence techniques to forecast poachers’ behavior. This facilitates strategic patrols for the safeguarding of endangered wildlife worldwide. This effort garnered coverage from prominent media outlets like Forbes and BBC. My interests extend to diverse domains, including healthcare where I have made impactful contributions by employing advanced deep learning computer vision techniques for medical imaging data analysis, leading to enhanced disease detection. Additionally, my endeavors encompass predictive models for critical scenarios like wildfire and food security, integrating survey, climate, and geospatial data to drive insightful forecasts. I have also leveraged remotely sensed imagery data and deep learning computer vision techniques to develop disaster response models, aiding in rapid building damage assessment during crises.
 
-## Publications and preprints
+## Publications and Preprints
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/building_damage-model_architecture.drawio (1).png" alt="damage-assessment">
 <div class="paper-text">
-  <i>Shahrzad Gholami</i>, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan M. Lavista Ferres
- <br>
   <b>On the Deployment of Post-Disaster Building Damage Assessment Tools using Satellite Imagery: A Deep Learning Approach</b>
   <br>
-  ICDM 2022 [<a href="https://ieeexplore.ieee.org/document/10031100/">paper</a>]
+  <i>Shahrzad Gholami</i>, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan M. Lavista Ferres
+  <br>
+  ICDM 2022 [<a href="https://ieeexplore.ieee.org/document/10031100/">paper</a>][<a href="https://github.com/microsoft/building-damage-assessment-cnn-siamese">code</a>]
   <br><br>
   <div class="paper-short-summary">
 	  <details>
