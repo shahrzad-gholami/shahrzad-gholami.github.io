@@ -58,7 +58,7 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 <div class="paper-text">
   <b>Novel data analytics identify predictors of quality-of-life trajectories in patients with AML or high-risk Myeloid Neoplasms</b>
   <br>
-  <i>Jordan Gauthier, Bianca Furtuna, ,Jacopo Mangiavacchi, Shahrzad Gholami, Juan M. Lavista Ferres, Rahul Dodhia, Amir T. Fathi,, Andrew M. Brunner, Aaron T. Gerds, Mikkael A. Sekeres, Bruno C. Medeiros, Eunice S. Wang, Paul J Shami, Kehinde Adekola, Selina M. Luger, Maria R. Baer, David A Rizzieri, Tanya Wildes, Jamie L. Koprivnikar, Julie Smith, Mitchell A. Garrison, Kiarash Kojouri, Frederick R. Appelbaum, Mary-Elizabeth M. Percival, Stephanie J. Lee, Mohamed L. Sorror</i>
+  <i>Jordan Gauthier, Bianca Furtuna, ,Jacopo Mangiavacchi, Shahrzad Gholami, Juan M. Lavista Ferres, Rahul Dodhia, Mohamed L. Sorror</i>
   <br>
   Blood 2022 , Vol 4 [<a href="https://ashpublications.org/blood/article/140/Supplement%201/5254/491544/Novel-Data-Analytics-Identify-Predictors-of">paper</a>]
   <br><br>
