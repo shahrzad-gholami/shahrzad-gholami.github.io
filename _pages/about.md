@@ -20,7 +20,7 @@ I am a Senior Applied Research Scientist in AI for Good Research Lab at Microsof
 <div class="paper-text">
   <b>On the Deployment of Post-Disaster Building Damage Assessment Tools using Satellite Imagery: A Deep Learning Approach</b>
   <br>
-  <i>Shahrzad Gholami</i>, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan M. Lavista Ferres
+  <i>Shahrzad Gholami, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan M. Lavista Ferres</i>
   <br>
   ICDM 2022 [<a href="https://ieeexplore.ieee.org/document/10031100/">paper</a>][<a href="https://github.com/microsoft/building-damage-assessment-cnn-siamese">code</a>]
   <br><br>
