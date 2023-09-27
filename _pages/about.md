@@ -42,7 +42,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
   <br>
   <i>Shahrzad Gholami, Erwin Knippenberg, James Campbell, Daniel Andriantsimba, Anusheel Kamle, Pavitraa Parthasarathy, Ria Sankar, Cameron Birge, Juan M. Lavista Ferres</i>
   <br>
-  Data & Policy 2022 , Vol 4 [<a href="https://www.cambridge.org/core/journals/data-and-policy/article/food-security-analysis-and-forecasting-a-machine-learning-case-study-in-southern-malawi/CA4DFA39526F318373259921C10D1C3F">paper</a>][<a href="https://medium.com/data-policy/forecasting-food-insecurity-levels-in-near-real-time-using-a-machine-learning-framework-24b553f70aca">blog</a>]
+  Data & Policy 2022, Vol 4 [<a href="https://www.cambridge.org/core/journals/data-and-policy/article/food-security-analysis-and-forecasting-a-machine-learning-case-study-in-southern-malawi/CA4DFA39526F318373259921C10D1C3F">paper</a>][<a href="https://medium.com/data-policy/forecasting-food-insecurity-levels-in-near-real-time-using-a-machine-learning-framework-24b553f70aca">blog</a>]
   <br><br>
   <div class="paper-short-summary">
 	  <details>
@@ -62,7 +62,7 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
   <br>
   <i>Jordan Gauthier, Bianca Furtuna, ,Jacopo Mangiavacchi, Shahrzad Gholami, Juan M. Lavista Ferres, Rahul Dodhia, Mohamed L. Sorror</i>
   <br>
-  Blood 2022 , Vol 4 [<a href="https://ashpublications.org/blood/article/140/Supplement%201/5254/491544/Novel-Data-Analytics-Identify-Predictors-of">paper</a>]
+  Blood 2022, Vol 4 [<a href="https://ashpublications.org/blood/article/140/Supplement%201/5254/491544/Novel-Data-Analytics-Identify-Predictors-of">paper</a>]
   <br><br>
   <div class="paper-short-summary">
 	  <details>
