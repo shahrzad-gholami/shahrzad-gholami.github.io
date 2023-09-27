@@ -15,6 +15,27 @@ redirect_from:
 I am a Senior Research Scientist at the AI for Good Research Lab within Microsoft where I am dedicated to leveraging the transformative capabilities of artificial intelligence to address pressing global societal and environmental challenges. My research spans a diverse spectrum of applications, encompassing innovations in healthcare, environmental sustainability, and humanitarian initiatives. Before embarking on my journey at Microsoft, I earned my Ph.D. in Computer Science from the University of Southern California. Through my research and contributions, I am committed to driving positive change and shaping a better future for our world through the power of AI.
 
 ## Publications and Preprints
+
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/mactel-short-paper.png" alt="damage-assessment">
+<div class="paper-text">
+  <b>Interpretable Ensemble-based Deep Learning Approach for Automated Detection of Macular Telangiectasia Type 2 by Optical Coherence Tomography</b>
+  <br>
+  <i>Shahrzad Gholami, Lea Scheppke, Rahul Dodhia, Juan M. Lavista Ferres , Aaron Lee</i>
+  <br>
+  ICML 2023 [<a href="https://openreview.net/pdf?id=amUYiXO9u0">paper</a>]
+  <br><br>
+  <div class="paper-short-summary">
+	  <details>
+		  <summary>TLDR: Developing ensemble deep learning model to detect Macular Telangiectasia Type 2 in OCT scans with interpretability using ResNet models and AdaBoost on a large dataset.</summary> 
+		  We present an ensemble-based approach using deep learning models for the accurate and interpretable detection of Macular Telangiectasia Type 2 (MacTel) from a large dataset of Optical Coherence Tomography (OCT) scans. Leveraging data from the MacTel Project by the Lowy Medical Research Institute and the University of Washington, our dataset consists of 5200 OCT scans from 780 MacTel patients and 1820 non-MacTel patients. Employing ResNet18 and ResNet50 architectures as supervised learning models along with the AdaBoost algorithm, we predict the presence of MacTel in patients and reflect on interpretability based on the Grad-CAM technique to identify critical regions in OCT images influencing the models’ predictions. We propose building weak learners for the AdaBoost ensemble by not only varying the architecture but also varying amounts of labeled data available for training neural networks to improve the accuracy and interpretability. Our study contributes to interpretable machine learning in healthcare, showcasing the efficacy of ensemble techniques for accurate and interpretable detection of rare retinal diseases like MacTel.
+	  </details>
+  </div>
+</div>
+</div>
+<br>
+
+
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/building_damage-model_architecture.drawio (1).png" alt="damage-assessment">
 <div class="paper-text">
@@ -88,26 +109,6 @@ I am a Senior Research Scientist at the AI for Good Research Lab within Microsof
 	  <details>
 		  <summary>TLDR: Predicting the spatio-temporal likelihood of wildfires via historical burned area, climate and geospatial data from three vast landscapes in India.</summary> 
 		  Wildfire is a growing global crisis with devastating consequences. Uncontrolled wildfires take away human lives, destroy millions of animals and trees, degrade the air quality, impact the biodiversity of the planet and cause substantial economic costs. It is incredibly challenging to predict the spatio-temporal likelihood of wildfires based on historical data, due to their stochastic nature. Crucially though, the accurate and reliable prediction of wildfires can help the stakeholders and decision-makers take timely, strategic and effective actions to prevent, detect and suppress the wildfires before they become unmanageable. Unfortunately, most previous studies developed predictive models that suffer from some shortcomings: (i) in the evaluation phase, they do not take the temporal aspects into account precisely and they assume the independent and identically distributed random variables; (ii) they do not evaluate their approaches comprehensively, thus it is not clear if their proposed predictions and selected models remain reliable across different locations and years for practical deployment; and (iii) for the supervised learning models, they use predictor features and fire observations from the same time step in the training phase, which makes the inference task infeasible for future fire prediction. In this paper, we revisit the wildfire predictive modeling, explore the inherent challenges from a practical perspective and evaluate our modeling approach comprehensively via historical burned area, climate and geospatial data from three vast landscapes in India.
-	  </details>
-  </div>
-</div>
-</div>
-<br>
-
-
-<div class="paper-image-text-pair">
-<img class="paper-image" src="/images/mactel-short-paper.png" alt="damage-assessment">
-<div class="paper-text">
-  <b>Interpretable Ensemble-based Deep Learning Approach for Automated Detection of Macular Telangiectasia Type 2 by Optical Coherence Tomography</b>
-  <br>
-  <i>Shahrzad Gholami, Lea Scheppke, Rahul Dodhia, Juan M. Lavista Ferres , Aaron Lee</i>
-  <br>
-  ICML 2023 [<a href="https://openreview.net/pdf?id=amUYiXO9u0">paper</a>]
-  <br><br>
-  <div class="paper-short-summary">
-	  <details>
-		  <summary>TLDR: Developing ensemble deep learning model to detect Macular Telangiectasia Type 2 in OCT scans with interpretability using ResNet models and AdaBoost on a large dataset.</summary> 
-		  We present an ensemble-based approach using deep learning models for the accurate and interpretable detection of Macular Telangiectasia Type 2 (MacTel) from a large dataset of Optical Coherence Tomography (OCT) scans. Leveraging data from the MacTel Project by the Lowy Medical Research Institute and the University of Washington, our dataset consists of 5200 OCT scans from 780 MacTel patients and 1820 non-MacTel patients. Employing ResNet18 and ResNet50 architectures as supervised learning models along with the AdaBoost algorithm, we predict the presence of MacTel in patients and reflect on interpretability based on the Grad-CAM technique to identify critical regions in OCT images influencing the models’ predictions. We propose building weak learners for the AdaBoost ensemble by not only varying the architecture but also varying amounts of labeled data available for training neural networks to improve the accuracy and interpretability. Our study contributes to interpretable machine learning in healthcare, showcasing the efficacy of ensemble techniques for accurate and interpretable detection of rare retinal diseases like MacTel.
 	  </details>
   </div>
 </div>
